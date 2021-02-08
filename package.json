@@ -1,0 +1,16 @@
+{
+  "name": "wwnode-scraper",
+  "version": "1.0.0",
+  "description": "A Node.js program to scrape data from websites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "puppeteer": "^7.0.1",
+    "request": "^2.88.2"
+  }
+}
