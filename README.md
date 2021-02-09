@@ -1,7 +1,3 @@
-### node-scrapper
-
----
-
 # node-scrapper
 
 A Node.js command line app using the puppeteer package to scrape web. The context of scraping is that of the World of War Craft game. The program scrapes the auction house site for the current auctions per realm for an item that the user specifies by entering an item id. The user also selects which realm they want to list the entries for that item in.
